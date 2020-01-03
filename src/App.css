@@ -1,0 +1,26 @@
+.hide{
+  display: none;
+  color:black;
+}
+.App {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  border-bottom: 2px solid rgb(33,150,239);
+  width:750px;
+  margin-left:300px;
+}
+.display {
+  display: block;
+  color:black;
+  list-style-type: none;
+  border: 2px solid   rgb(33,150,239);
+  margin-left:630px;
+  margin-top:-17px;
+  width:150px;
+}
+
+.blue:hover  {
+color:rgb(33,150,239);
+}
+
